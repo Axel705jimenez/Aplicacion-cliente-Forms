@@ -1,0 +1,16 @@
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\bin\Debug\net6.0-windows\Aplicacion cliente-Forms.exe
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\bin\Debug\net6.0-windows\Aplicacion cliente-Forms.deps.json
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\bin\Debug\net6.0-windows\Aplicacion cliente-Forms.runtimeconfig.json
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\bin\Debug\net6.0-windows\Aplicacion cliente-Forms.dll
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\bin\Debug\net6.0-windows\Aplicacion cliente-Forms.pdb
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\Aplicacion_cliente_Forms.Form1.resources
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\Aplicacion cliente-Forms.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\Aplicacion cliente-Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\Aplicacion cliente-Forms.AssemblyInfoInputs.cache
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\Aplicacion cliente-Forms.AssemblyInfo.cs
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\Aplicacion cliente-Forms.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\Aplicacion cliente-Forms.dll
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\refint\Aplicacion cliente-Forms.dll
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\Aplicacion cliente-Forms.pdb
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\Aplicacion cliente-Forms.genruntimeconfig.cache
+C:\Users\jimen\source\repos\Aplicacion cliente-Forms\Aplicacion cliente-Forms\obj\Debug\net6.0-windows\ref\Aplicacion cliente-Forms.dll
